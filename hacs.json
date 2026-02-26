@@ -1,0 +1,7 @@
+{
+  "name": "Ecoflow Custom Lovelace Card",
+  "content_in_root": false,
+  "filename": "ecowlow-card.js",
+  "homeassistant": "2025.6",
+  "render_readme": true
+}

@@ -1,0 +1,49 @@
+{
+  "editor": {
+    "card": {
+      "generic": {
+        "show_serial_number": "Show serial number",
+        "show_image": "Show device image",
+        "name": "Name of the device",
+        "use_custom_name": "Use custom device name",
+        "prefere_model_name": "Prefer model name to device name",
+        "show_ecoflow_logo": "Show EcoFlow logo",
+        "accent_color": "Accent color",
+        "image_options": "Image Options",
+        "display_options": "Display Options",
+        "custom_options": "Additional Options",
+        "show_battery_level": "Show battery level",
+        "show_cycles": "Show battery cycles",
+        "show_battery_temperature": "Show battery temperature",
+        "colors": {
+          "options": {
+            "red": "Red",
+            "green": "Green",
+            "blue": "Blue",
+            "sky": "Sky blue",
+            "orange": "Orange",
+            "pink": "Pink",
+            "lime": "Lime",
+            "teal": "Teal",
+            "cyan": "Cyan",
+            "gray": "Gray",
+            "violet": "Violet",
+            "indigo": "Indigo",
+            "purple": "Purple"
+          }
+        }
+      }
+    }
+  },
+  "card": {
+    "wat": "W",
+    "input": "Input",
+    "output": "Output",
+    "ac": "AC",
+    "solar_energy": "Solar energy",
+    "speed": "SPEED",
+    "usb_c": "USB-C",
+    "usb_a": "USB-A",
+    "dc_12_v": "DC 12V"
+  }
+}

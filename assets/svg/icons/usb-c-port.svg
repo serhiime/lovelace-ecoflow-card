@@ -1,0 +1,17 @@
+<svg viewBox="0 0 24 24"
+     xmlns="http://www.w3.org/2000/svg"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="0.6"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Outer USB-C shape -->
+    <rect x="3.5" y="7.5" width="17" height="9" rx="4.5"/>
+
+    <!-- Inner opening (filled) -->
+    <rect x="7" y="11" width="10" height="2" rx="1.1"
+          fill="currentColor"
+          stroke="none"/>
+
+</svg>

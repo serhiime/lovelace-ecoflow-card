@@ -1,0 +1,31 @@
+export const GENERIC_LABELS: string[] = [
+  "show_serial_number",
+  "show_image",
+  "name",
+  "prefere_model_name",
+  "use_custom_name",
+  "show_ecoflow_logo",
+  "accent_color",
+  "image_options",
+  "display_options",
+  "custom_options",
+  "show_battery_level",
+  "show_cycles",
+  "show_battery_temperature",
+];
+
+export const TRANSLATED_VALUES = [
+  "colors.options.red",
+  "colors.options.green",
+  "colors.options.blue",
+  "colors.options.sky",
+  "colors.options.orange",
+  "colors.options.pink",
+  "colors.options.lime",
+  "colors.options.teal",
+  "colors.options.cyan",
+  "colors.options.gray",
+  "colors.options.violet",
+  "colors.options.indigo",
+  "colors.options.purple",
+];
