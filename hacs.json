@@ -1,5 +1,5 @@
 {
   "name": "Ecoflow Custom Lovelace Card",
-  "filename": "ecowlow-card.js",
+  "filename": "ecoflow-card.js",
   "homeassistant": "2025.6"
 }
